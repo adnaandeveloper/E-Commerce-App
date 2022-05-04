@@ -75,3 +75,22 @@ export const categories = [
     title: 'cat tree',
   },
 ];
+
+export const popularProducts = [
+  {
+    id: 0,
+    img: 'https://rognh2ijdrf1wwftkx4eici0-wpengine.netdna-ssl.com/wp-content/uploads/2012/08/AS_lion-majestic_229932133.jpeg',
+  },
+  {
+    id: 1,
+    img: 'https://www.kindpng.com/picc/m/181-1816116_chicken-png-cartoon-chiken-png-transparent-png.png',
+  },
+  {
+    id: 2,
+    img: 'https://s.yimg.com/ny/api/res/1.2/Gp3tIUKkvSV6HUF_d6yfsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM1Mg--/https://media.zenfs.com/en-US/smartasset_475/47624d7cbd95041c5c0f9fb287e8d337',
+  },
+  {
+    id: 3,
+    img: 'https://i0.wp.com/www.camel-idee.com/wp-content/uploads/2021/05/Les-chameaux-pourraient-ils-bientot-remplacer-les-vaches-lait-de-chamelle-camel-milk-leche-de-camello-camel-idee.jpg?fit=675%2C675&ssl=1',
+  },
+];
