@@ -1,7 +1,10 @@
 import React from 'react';
+import styled from 'styled-components';
 
-const Product = () => {
-  return <div></div>;
+const Container = styled.div``;
+
+const Product = ({ imte }) => {
+  return <Container></Container>;
 };
 
 export default Product;
