@@ -57,3 +57,21 @@ export const sliderItems = [
     bg: 'f5fafd',
   },
 ];
+
+export const categories = [
+  {
+    id: 0,
+    img: 'https://d2zp5xs5cp8zlg.cloudfront.net/image-31454-800.jpg',
+    title: 'cat one',
+  },
+  {
+    id: 1,
+    img: 'https://media.4-paws.org/a/5/3/7/a537f08d227326121b80790ba54036498668c9c8/VIER%20PFOTEN_2016-07-08_011-4993x3455-1920x1329.jpg',
+    title: 'cat two',
+  },
+  {
+    id: 2,
+    img: 'https://cdn.mos.cms.futurecdn.net/KYEJp9vem3QQFGhi25SYx4-1200-80.jpg',
+    title: 'cat tree',
+  },
+];
