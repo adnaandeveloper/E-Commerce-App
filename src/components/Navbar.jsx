@@ -14,9 +14,9 @@ const Wrapper = styled.div`
   align-items: center;
 `;
 const Left = styled.div`
-  widht:flex: 1;
-  display:flex;
-  align-items:center;
+  flex: 1;
+  display: flex;
+  align-items: center;
 `;
 const Language = styled.span`
   font-size: 14px;
@@ -25,16 +25,16 @@ const Language = styled.span`
 const SearchContainer = styled.div`
   border: 0.5px solid lightgray;
   display: flex;
-  align-itrms: center;
+  align-items: center;
   margin-left: 25px;
   padding: 5px;
 `;
 const Center = styled.div`
-  widht:flex: 1;
-  text-align:center;
+  flex: 1;
+  text-align: center;
 `;
 const Right = styled.div`
-  widht: 1;
+  flex: 1;
   display: flex;
 `;
 const Input = styled.input`
