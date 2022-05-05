@@ -93,4 +93,12 @@ export const popularProducts = [
     id: 3,
     img: 'https://i0.wp.com/www.camel-idee.com/wp-content/uploads/2021/05/Les-chameaux-pourraient-ils-bientot-remplacer-les-vaches-lait-de-chamelle-camel-milk-leche-de-camello-camel-idee.jpg?fit=675%2C675&ssl=1',
   },
+  {
+    id: 4,
+    img: 'https://s3.amazonaws.com/heap-media.idello.org/0y7rhvq8ianao/resource_details_16_9_2x.jpg',
+  },
+  {
+    id: 5,
+    img: 'https://imgix.ranker.com/user_node_img/3388/67740955/original/67740955-photo-u6?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=375',
+  },
 ];
